@@ -1,0 +1,4 @@
+tkinter
+cryptography.fernet
+bcrypt
+gui
